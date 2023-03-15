@@ -1,0 +1,15 @@
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\bin\Debug\net6.0\PruebaMayco.exe
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\bin\Debug\net6.0\PruebaMayco.deps.json
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\bin\Debug\net6.0\PruebaMayco.runtimeconfig.json
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\bin\Debug\net6.0\PruebaMayco.dll
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\bin\Debug\net6.0\PruebaMayco.pdb
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.csproj.AssemblyReference.cache
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.AssemblyInfoInputs.cache
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.AssemblyInfo.cs
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.csproj.CoreCompileInputs.cache
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.dll
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\refint\PruebaMayco.dll
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.pdb
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\PruebaMayco.genruntimeconfig.cache
+C:\Users\GETECSA\source\repos\PruebaMayco\PruebaMayco\obj\Debug\net6.0\ref\PruebaMayco.dll
